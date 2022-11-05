@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pJw8rZu7aBJsM5hN6w8D1+ISme24mKNV5rShnk0ga6s=",
+  "Source": "EmbarkAPI",
+  "BasePath": "_content/EmbarkAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
